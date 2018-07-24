@@ -1,1 +1,31 @@
-{}
+{
+  "passengers": [
+    {
+      "fullname": "Steveeen",
+      "id": 1,
+      "checkedIn": false,
+      "baggage": "coffin-full-of-bananas"
+    },
+    {
+      "fullname": "JimJam",
+      "id": 2,
+      "checkedIn": true,
+      "baggage": "coffin-full-of-bananas",
+      "checkInDate": 1532376388240
+    },
+    {
+      "id": 3,
+      "fullname": "Brunhilda",
+      "checkedIn": true,
+      "checkInDate": 1490742000000,
+      "baggage": ""
+    },
+    {
+      "id": 4,
+      "fullname": "Scooby",
+      "checkedIn": false,
+      "checkInDate": 1490722000000,
+      "baggage": ""
+    }
+  ]
+}
